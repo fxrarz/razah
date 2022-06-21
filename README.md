@@ -1,2 +1,2 @@
 # Humanoid-Robot
-<img src="images/humanoid.jpeg" align="right" />
+<img src="images/humanoid.jpg" align="right" />
