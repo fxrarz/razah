@@ -1,2 +1,2 @@
-# Humanoid-Robot
+# Razah
 <img src="images/Humanoid.png" align="right" />
