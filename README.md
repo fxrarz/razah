@@ -31,6 +31,7 @@ git clone https://github.com/fxrarz/razah.git
 cd razah
 pip install -r requirement.txt
 ```
+
 ### Demo
 ```bash
 roslaunch razah init.launch
@@ -48,8 +49,11 @@ Fast and accurate processing modules are required. This include Verbal & Visual 
   - Object Detection
   - Image Segmentation
 
-## Links
+## License
+The Aimeos TYPO3 extension is licensed under the terms of the GPL Open Source
+license and is available for free.
 
+## Links
 * [Ubuntu desktop](https://ubuntu.com/download/desktop)
 * [Python3.8](https://linuxize.com/post/how-to-install-python-3-8-on-ubuntu-18-04/)
 * [ROS Noetic](http://wiki.ros.org/noetic/Installation/Ubuntu)
