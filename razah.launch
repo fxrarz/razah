@@ -1,0 +1,5 @@
+<launch>
+	roscd razah/src
+	<node name="mic" pkg="razah" type="speech2text.py" output="screen" />
+	<node name="speaker" pkg="razah" type="text2speech.py" output="screen" />
+</launch>
