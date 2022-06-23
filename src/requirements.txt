@@ -1,0 +1,12 @@
+python3 -m venv razah-lib
+sudo apt install espeak
+pip install rospkg
+pip install pyyaml
+pip install pyttsx3
+
+pip install SpeechRecognition
+pip install PyAudio
+
+pip install chatterbot
+
+https://www.clearpathrobotics.com/assets/guides/kinetic/ros/ROS%20Parameter%20Server.html
