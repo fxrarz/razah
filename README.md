@@ -8,6 +8,7 @@ Razah is a Open-Source software package for Humanoid Robots. It provides support
 - [Getting Started](#getting-started)
     - [Requirement](#requirement)
     - [Installation](#installation)
+    - [Demo](#demo)
 - [Contribution](#contribution)
 - [License](#license)
 - [Links](#links)
@@ -25,8 +26,15 @@ Package requires:
   - Gazebo or Pybullet Simulator
 
 ### Installation
-pip install requirement.txt
+```bash
+git clone https://github.com/fxrarz/razah.git
+cd razah
+pip install -r requirement.txt
+```
+### Demo
+```bash
 roslaunch razah init.launch
+```
 
 ## Contribution
 Fast and accurate processing modules are required. This include Verbal & Visual modules.
