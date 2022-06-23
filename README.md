@@ -1,4 +1,4 @@
-# Humanoid-Robot
+# Razah
 <img src="images/humanoid.jpg" align="right" height="30%" width="30%" />
 Razah is a Open-Source software package for Humanoid Robots. It provides support for verbal and visual application. Motive of this repo is to reducing the build time of software.
 
@@ -20,18 +20,17 @@ Razah is a Open-Source software package for Humanoid Robots. It provides support
 
 
 ## Disclaimer
-**Note:** Razah package supports Python3.8 and above.
+**Note:** Razah package only supports Python3.8 and above.
 
 ## Getting Started
-
-## Requirement
+### Requirement
 Package requires:
   - Python3.8 (recommended)
   - ROS Noetic (recommended)
   - Ubuntu Desktop (recommended)
   - Gazebo or Pybullet Simulator
 
-## Installation
+### Installation
 pip install requirement.txt
 roslaunch razah init.launch
 
