@@ -4,17 +4,11 @@ Razah is a Open-Source software package for Humanoid Robots. It provides support
 
 ## Table of content
 
-- [Installation](#installation)
-    - [TER](#typo3-extension-repository)
-    - [Composer](#composer)
-- [TYPO3 setup](#typo3-setup)
-    - [Extension](#extension)
-    - [Database](#database)
-- [Page setup](#page-setup)
-    - [Upload the page tree file](#upload-the-page-tree-file)
-    - [Go to the import view](#go-to-the-import-view)
-    - [Import the page tree](#import-the-page-tree)
-    - [SEO-friendly URLs](#seo-friendly-urls)
+- [Disclaimer](#disclaimer)
+- [Getting Started](#getting-started)
+    - [Requirement](#requirement)
+    - [Installation](#installation)
+- [Contribution](#contribution)
 - [License](#license)
 - [Links](#links)
 
