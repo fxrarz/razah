@@ -37,7 +37,7 @@ pip install -r requirement.txt
 
 ### Demo
 ```bash
-roslaunch razah init.launch
+roslaunch razah razah.launch
 ```
 
 ## Contribution
@@ -53,7 +53,7 @@ Fast and accurate processing modules are required. This include Verbal & Visual 
   - Image Segmentation
 
 ## License
-The Aimeos TYPO3 extension is licensed under the terms of the GPL Open Source
+The Razah package is licensed under the terms of the GPL Open Source
 license and is available for free.
 
 ## Links
