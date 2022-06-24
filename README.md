@@ -1,6 +1,6 @@
 # Razah
 <img src="images/humanoid.jpg" align="right" height="30%" width="30%" />
-Razah is a Open-Source software package for Humanoid Robots. It provides support for verbal and visual application. Motive of this repo is to reducing the build time of software.
+Razah is a Open-Source ROS package for Humanoid Robots. It provides support for verbal and visual application. Motive of this repository is to reducing the build time of software and focus more on hardeware design.
 
 ## Table of content
 
