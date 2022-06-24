@@ -60,4 +60,4 @@ license and is available for free.
 * [Ubuntu desktop](https://ubuntu.com/download/desktop)
 * [Python3.8](https://linuxize.com/post/how-to-install-python-3-8-on-ubuntu-18-04/)
 * [ROS Noetic](http://wiki.ros.org/noetic/Installation/Ubuntu)
-* [Pybullet](https://pypi.org/project/pybullet/)pip install pyaudio
+* [Pybullet](https://pypi.org/project/pybullet/)
