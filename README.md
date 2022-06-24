@@ -27,6 +27,9 @@ Package requires:
 
 ### Installation
 ```bash
+sudo apt install espeak python-pyaudio python3-pyaudio libasound-dev portaudio19-dev libportaudio2 libportaudiocpp0 ffmpeg libav-tools
+```
+```bash
 git clone https://github.com/fxrarz/razah.git
 cd razah
 pip install -r requirement.txt
@@ -57,4 +60,4 @@ license and is available for free.
 * [Ubuntu desktop](https://ubuntu.com/download/desktop)
 * [Python3.8](https://linuxize.com/post/how-to-install-python-3-8-on-ubuntu-18-04/)
 * [ROS Noetic](http://wiki.ros.org/noetic/Installation/Ubuntu)
-* [Pybullet](https://pypi.org/project/pybullet/)
+* [Pybullet](https://pypi.org/project/pybullet/)pip install pyaudio
